@@ -1,12 +1,16 @@
-# Getting Started with Create React App
+# https://ui.dev/react-router-protected-routes-authentication/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This is for React Router DOM v6
 
-## Available Scripts
+First create useAuth hook.
 
-In the project directory, you can run:
+## To demo Create 5 components which are Dashboard, Home, Login, Pricing and Setting
 
-### `npm start`
+All the component is nested inside the components folder
+Installation with npm
+npm install react-router-dom@6
+
+### Modify App.js
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
